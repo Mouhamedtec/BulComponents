@@ -1,2 +1,2 @@
 # BulComponents
-A free repository for community components using Bulma
+A free repository for community components using Bulma CSS
